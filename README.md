@@ -1,6 +1,6 @@
 # Moment 1 - Version Control with Git
 
-This repository is a part of the assignment *Version Control with Git*, which is an assignment within the course called _Web Development II_. This course is a part of the Web Development program at the _Mid Sweden University_.
+This repository is a part of the assignment **Version Control with Git**, which is an assignment within the course called _Web Development II_. This course is a part of the Web Development program at the _Mid Sweden University_.
 
 ## The task
 
